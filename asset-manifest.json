@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VigneshKalyan/contest1F/static/css/main.e6c13ad2.css",
+    "main.js": "/VigneshKalyan/contest1F/static/js/main.eecd3705.js",
+    "index.html": "/VigneshKalyan/contest1F/index.html",
+    "main.e6c13ad2.css.map": "/VigneshKalyan/contest1F/static/css/main.e6c13ad2.css.map",
+    "main.eecd3705.js.map": "/VigneshKalyan/contest1F/static/js/main.eecd3705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eecd3705.js"
+  ]
+}
